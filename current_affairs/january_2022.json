@@ -1,0 +1,81 @@
+{
+    "current_affairs":[
+        {   
+            "date":"25th Jan 2022",
+            "affairs":[
+                {
+                    "Question": "“Yogyata” mobile phone application was launched by ………",
+                    "optionA": " Common Services Centers (CSC)",
+                    "optionB": " National Green Tribunal",
+                    "optionC": " Election Commission of India",
+                    "optionD": " Supreme Court of India",
+                    "Answar": " Option A",
+                    "solution": " The Common Services Centers (CSC) has recently launched the “Yogyata” mobile phone application. It aims to provide vocational education and skill enhancement opportunities to youth and other citizens in rural areas. It includes the access to courses like Cyber Security, CAD and 3D printing, to increase employability The training content is on a continuous learning mode and the courses are yearly subscription-based. ",
+                    "keyString": "1",
+                    "isBookMark": 0,
+                    "isShown": 0,
+                    "isCon": 0
+                },
+                {
+                    "Question": "Which state/UT launched India’s first District Good Governance Index (DGGI)?",
+                    "optionA": " Kerala",
+                    "optionB": " Jammu & Kashmir",
+                    "optionC": " Goa",
+                    "optionD": " Sikkim",
+                    "Answar": " Option B",
+                    "solution": " India’s first ever District Good Governance Index (DGGI) was released in the Union Territory of Jammu and Kashmir. In the composite ranking of the index, the Jammu district tops the list followed by districts of Doda, Samba, Pulwama and Srinagar in the UT. The Index is a framework document which assesses the performance under ten governance sectors with 58 indicators. ",
+                    "keyString": "2",
+                    "isBookMark": 0,
+                    "isShown": 0,
+                    "isCon": 0
+                },
+                {
+                    "Question": "The World Bank has approved a loan of around Rs 1,000 crore for which Indian state Government?",
+                    "optionA": " Odisha",
+                    "optionB": " West Bengal",
+                    "optionC": " Andhra Pradesh",
+                    "optionD": " Karnataka",
+                    "Answar": " Option B",
+                    "solution": "The World Bank has approved a loan of around Rs 1,000 crore (USA 125 million) for the West Bengal government.The loan has been approved under the ‘West Bengal Building State Capability for Inclusive Social Protection’ operation. The loan is being given for several development projects related to social security.",
+                    "keyString": "3",
+                    "isBookMark": 0,
+                    "isShown": 0,
+                    "isCon": 0
+                }
+            ]
+        },
+        {   
+            "date":"24th & 23th Jan 2022",
+            "affairs":[
+                {
+                    "Question": "Which country has organised the ‘Asia Ministerial Conference on Tiger Conservation’?",
+                    "optionA": " India",
+                    "optionB": " Malaysia",
+                    "optionC": " UK",
+                    "optionD": " Sri Lanka",
+                    "Answar": " Option B",
+                    "solution": " Government of Malaysia and Global Tiger Forum (GTF) jointly organised the 4th Asia Ministerial Conference on Tiger Conservation.India’s Union Minister of Environment, Forest and Climate Change Bhupender Yadav delivered India’s statement at the Conference on Tiger Conservation. India will facilitate Tiger Range Countries towards finalisation of New Delhi declaration for Global Tiger Summit to be held in Russia. ",
+                    "keyString": "1",
+                    "isBookMark": 0,
+                    "isShown": 0,
+                    "isCon": 0
+                },
+                {
+                    "Question": "Which country has organised the ‘Asia Ministerial Conference on Tiger Conservation’?",
+                    "optionA": " India",
+                    "optionB": " Malaysia",
+                    "optionC": " UK",
+                    "optionD": " Sri Lanka",
+                    "Answar": " Option B",
+                    "solution": " Government of Malaysia and Global Tiger Forum (GTF) jointly organised the 4th Asia Ministerial Conference on Tiger Conservation.India’s Union Minister of Environment, Forest and Climate Change Bhupender Yadav delivered India’s statement at the Conference on Tiger Conservation. India will facilitate Tiger Range Countries towards finalisation of New Delhi declaration for Global Tiger Summit to be held in Russia. ",
+                    "keyString": "1",
+                    "isBookMark": 0,
+                    "isShown": 0,
+                    "isCon": 0
+                }
+            ]
+        }
+        
+    ]
+    
+}
