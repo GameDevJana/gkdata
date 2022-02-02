@@ -1,0 +1,38 @@
+{
+    "points_of_the_day": [
+        {
+            "date":"2nd Feb 2022",
+            "points":[
+                {
+                    "Question": "Who has become the President of Italy again ?",
+                    "solution": "Sergio Materella",
+                    "keyString": "w4r1",
+                    "isBookMark": 0,
+                    "isShown": 0,
+                    "isCon": 0,
+                    "detail":""
+                },
+                {
+                    "Question": "Which country is associated with the tribal flag which was in news recently",
+                    "solution": "Australia",
+                    "keyString": "34r5sdf",
+                    "isBookMark": 0,
+                    "isShown": 0,
+                    "isCon": 0,
+                    "detail":""
+                },
+                {
+                    "Question": "Which person popularly known as Tunnel Man has received the Padma Shri award",
+                    "solution": "Amai Mahalinga Naik",
+                    "detail":"Shri Amai Mahalinga Naik (Age 77 Years), an Innovative Farmer from Adyanadka Village of Coastal Dakshina Kannada District of Karnataka has been conferred with the prestigious Padma Shri Award - 2022 for transforming an arid sloping hill into a fertile farm through the Innovative Zero-Energy Micro-Irrigation System. Shri Amai Mahalinga Naik single handedly dug 6 Tunnels of 315 Ft length to bring over water to his farm. He also constructed 300 percolation trenches alone in the hills surrounding the farm with around 5,000 large laterite stones that he carried himself to his farm.  He turned a deserted and barren plot of land into a lush oasis comprising of 300 Arecanut Palms, 75 Coconut Trees, 150 Cashew Trees, 200 Banana Saplings and Pepper Vines. For all his efforts, he is also known as “One-Man Army” and “Tunnel Man” in his surrounding areas. Shri Naik’s farm has become a model-farmland and has over 1,000 visitors a Year including the foreign tourists.",
+                    "keyString": "ert",
+                    "isBookMark": 0,
+                    "isShown": 0,
+                    "isCon": 0
+                }
+
+            ]
+        }
+        
+    ]
+}

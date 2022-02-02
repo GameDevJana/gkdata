@@ -1,8 +1,69 @@
 {
-    "current_affairs":[
-        {   
-            "date":"25th Jan 2022",
+    "current_affairs": [
+        {
+            "date":"2nd Feb 2022",
             "affairs":[
+                {
+                    "Question": "",
+                    "optionA": "",
+                    "optionB": "",
+                    "optionC": "",
+                    "optionD": "",
+                    "Answar": "",
+                    "Title": "2nd February, World wetlands day",
+                    "solution": "Every year on 2nd February, World Wetlands Day is celebrated internationally. This day marks the date of the adoption of the Convention on Wetlands on 2nd February, 1971, in Ramsar, Iran. It was first celebrated in 1997. Wetlands, often known as “liquid assets” are the of the most crucial natural resources that help stabilise water supplies, cleanse polluted waters, protect shorelines, and recharge groundwater aquifers.",
+                    "keyString": "w4r1",
+                    "isBookMark": 0,
+                    "isShown": 0,
+                    "isCon": 0
+                },
+                {
+                    "Question": "",
+                    "optionA": "",
+                    "optionB": "",
+                    "optionC": "",
+                    "optionD": "",
+                    "Answar": "",
+                    "Title": "US blocks Pak ambassador Masood Khan's appointment. ",
+                    "solution": "In a massive global embarrassment for Pakistan, the United States blocked the appointment of a new Pakistan ambassador due to possible terror links. Perry wrote a stinging letter to US President Joe Biden against Pakistan's decision calling Khan a terror sympathizer who praised terror organizations and terrorists like Hizbul Mujahideen and Burhan Wani.",
+                    "keyString": "tyg45",
+                    "isBookMark": 0,
+                    "isShown": 0,
+                    "isCon": 0
+                },
+                {
+                    "Question": "",
+                    "optionA": "",
+                    "optionB": "",
+                    "optionC": "",
+                    "optionD": "",
+                    "Answar": "",
+                    "Title": "India, Russia hold consultations on UN",
+                    "solution": "Russian Deputy Foreign Minister Sergey Vershinin held consultations with Reenat Sandhu, Secretary (West) in the Ministry of External Affairs (MEA) here and exchanged views on typical issues of the UN Security Council work, including the situation in Afghanistan, Syria, Libya and Myanmar.",
+                    "keyString": "35fdgfd",
+                    "isBookMark": 0,
+                    "isShown": 0,
+                    "isCon": 0
+                },
+                {
+                    "Question": "",
+                    "optionA": "",
+                    "optionB": "",
+                    "optionC": "",
+                    "optionD": "",
+                    "Answar": "",
+                    "Title": "Honduras's first woman president",
+                    "solution": "Xiomara Castro has been sworn in as Honduras’ first female president, taking office amid growing uncertainty about whether she will be able to govern in the face of an unfolding legislative crisis and other challenges",
+                    "keyString": "ertert",
+                    "isBookMark": 0,
+                    "isShown": 0,
+                    "isCon": 0
+                }
+            ]
+        },
+        {
+            "date": "25th Jan 2022",
+            "affairs": [
                 {
                     "Question": "“Yogyata” mobile phone application was launched by ………",
                     "optionA": " Common Services Centers (CSC)",
@@ -10,6 +71,7 @@
                     "optionC": " Election Commission of India",
                     "optionD": " Supreme Court of India",
                     "Answar": " Option A",
+                    "Title": "",
                     "solution": " The Common Services Centers (CSC) has recently launched the “Yogyata” mobile phone application. It aims to provide vocational education and skill enhancement opportunities to youth and other citizens in rural areas. It includes the access to courses like Cyber Security, CAD and 3D printing, to increase employability The training content is on a continuous learning mode and the courses are yearly subscription-based. ",
                     "keyString": "1",
                     "isBookMark": 0,
@@ -23,6 +85,7 @@
                     "optionC": " Goa",
                     "optionD": " Sikkim",
                     "Answar": " Option B",
+                    "Title": "",
                     "solution": " India’s first ever District Good Governance Index (DGGI) was released in the Union Territory of Jammu and Kashmir. In the composite ranking of the index, the Jammu district tops the list followed by districts of Doda, Samba, Pulwama and Srinagar in the UT. The Index is a framework document which assesses the performance under ten governance sectors with 58 indicators. ",
                     "keyString": "2",
                     "isBookMark": 0,
@@ -36,6 +99,7 @@
                     "optionC": " Andhra Pradesh",
                     "optionD": " Karnataka",
                     "Answar": " Option B",
+                    "Title": "",
                     "solution": "The World Bank has approved a loan of around Rs 1,000 crore (USA 125 million) for the West Bengal government.The loan has been approved under the ‘West Bengal Building State Capability for Inclusive Social Protection’ operation. The loan is being given for several development projects related to social security.",
                     "keyString": "3",
                     "isBookMark": 0,
@@ -44,9 +108,9 @@
                 }
             ]
         },
-        {   
-            "date":"24th & 23th Jan 2022",
-            "affairs":[
+        {
+            "date": "24th & 23th Jan 2022",
+            "affairs": [
                 {
                     "Question": "Which country has organised the ‘Asia Ministerial Conference on Tiger Conservation’?",
                     "optionA": " India",
@@ -75,7 +139,5 @@
                 }
             ]
         }
-        
     ]
-    
 }
