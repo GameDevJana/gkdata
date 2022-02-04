@@ -1,6 +1,20 @@
 {
     "points_of_the_day": [
         {
+            "date":"4th Feb 2022",
+            "points":[
+                {
+                    "Question":"Which scientist arranged the Periodic Table of Elements in the order of increasing atomic masses?",
+                    "solution": "Dmitri Mendeleev",
+                    "keyString": "twe43",
+                    "isBookMark": 0,
+                    "isShown": 0,
+                    "isCon": 0,
+                    "detail":""
+                }
+            ]
+        },
+        {
             "date":"2nd Feb 2022",
             "points":[
                 {

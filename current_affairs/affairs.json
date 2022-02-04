@@ -1,8 +1,111 @@
 {
     "current_affairs": [
         {
-            "date":"2nd Feb 2022",
-            "affairs":[
+            "date": "4th Feb 2022",
+            "affairs": [
+                {
+                    "Question": "",
+                    "optionA": "",
+                    "optionB": "",
+                    "optionC": "",
+                    "optionD": "",
+                    "Answar": "",
+                    "Title": "4th February World Cancer Day",
+                    "solution": "Every year on 4 February World Cancer Day is observed globally and is celebrated by WHO to aware people of the disease Cancer and how to cure it. This year’s World Cancer Day will be observed on February 4th, with the theme “Close the Care Gap.” The three-year “Close the Care Gap” campaign of World Cancer Day was initially presented to participants on the Summit platform in the run-up to the World Cancer Leaders’ Summit.",
+                    "keyString": "rttttt4554",
+                    "isBookMark": 0,
+                    "isShown": 0,
+                    "isCon": 0
+                },
+                {
+                    "Question": "",
+                    "optionA": "",
+                    "optionB": "",
+                    "optionC": "",
+                    "optionD": "",
+                    "Answar": "",
+                    "Title": "COMiT-Net",
+                    "solution": "Researchers from the Indian Institute of Technology (IIT) Jodhpur have developed an Artificial Intelligence (AI)-based chest X-ray diagnosis technique using X-Ray that can detect COVID-19.The AI-based solution can be an alternative to the regular RT PCR tests conducted across the world. The Researchers from the institute proposed a deep learning-based algorithm, COMiT-Net, which can differentiate between a COVID-19 affected lung and a non-COVID affected lung.",
+                    "keyString": "3434534",
+                    "isBookMark": 0,
+                    "isShown": 0,
+                    "isCon": 0
+                },
+                {
+                    "Question": "",
+                    "optionA": "",
+                    "optionB": "",
+                    "optionC": "",
+                    "optionD": "",
+                    "Answar": "",
+                    "Title": "ISIS leader Quraishi kills himself during Syria raid, U.S. says",
+                    "solution": "Abu Ibrahim al-Hashemi al-Quraishi, had led Islamic State since the death in 2019 of its founder Abu Bakr al-Baghdadi, who was also killed when he detonated explosives during a raid by U.S. commandos.",
+                    "keyString": "t4",
+                    "isBookMark": 0,
+                    "isShown": 0,
+                    "isCon": 0
+                },
+                {
+                    "Question": "",
+                    "optionA": "",
+                    "optionB": "",
+                    "optionC": "",
+                    "optionD": "",
+                    "Answar": "",
+                    "Title": "Which country inaugurated the Ijmuiden Sea Lock, the world’s largest sea lock?",
+                    "solution": "The Netherlands.\nDutch King Willem-Alexander officially opened the Ijmuiden Sea Lock, which is claimed to be the largest sea lock in the world.\nThe 500-metre long and 70-metre-wide structure replaces a smaller 100-year-old one at Ijmuiden, a port city connecting the North Sea Canal to the port of Amsterdam. The structure is deep enough that ships will not have to wait for a favourable water level to enter the canal.",
+                    "keyString": "t42134f",
+                    "isBookMark": 0,
+                    "isShown": 0,
+                    "isCon": 0
+                },
+                {
+                    "Question": "",
+                    "optionA": "",
+                    "optionB": "",
+                    "optionC": "",
+                    "optionD": "",
+                    "Answar": "",
+                    "Title": "Which state launched ‘Project Sadbhawana’ to improve Governance? [INDIA]",
+                    "solution": "Assam\nAssam Chief Minister Himanta Biswa Sarma launched “Project Sadbhawana”. It aims to dispose over 4-5 lakh pending files lying in the State secretariat within a year.A portal will be created where people can inform of their pending files. Along with project Sadbhavana, a Swachhata Abhiyan in Janata Bhawan will also be launched to promote cleanliness in all the departments in the Secretariat.",
+                    "keyString": "a00001",
+                    "isBookMark": 0,
+                    "isShown": 0,
+                    "isCon": 0
+                },
+                {
+                    "Question": "",
+                    "optionA": "",
+                    "optionB": "",
+                    "optionC": "",
+                    "optionD": "",
+                    "Answar": "",
+                    "Title": "When is the ‘World Neglected Tropical Diseases Day’ observed?",
+                    "solution": "January 30\nWorld Neglected Tropical Diseases Day’ is observed on January 30 every year, to raise awareness on neglected tropical diseases. This year’s World NTD Day was commemorated under the theme ‘Achieving health equity to end the neglect of poverty-related diseases’. Some examples of NTDs are Chagas disease, Chikungunya, Dengue, Leprosy, Rabies and Trachoma among others. They affect 1 billion people globally..",
+                    "keyString": "a00002",
+                    "isBookMark": 0,
+                    "isShown": 0,
+                    "isCon": 0
+                },
+                {
+                    "Question": "",
+                    "optionA": "",
+                    "optionB": "",
+                    "optionC": "",
+                    "optionD": "",
+                    "Answar": "",
+                    "Title": "‘Lake Albert’ is located as a border between which two countries?",
+                    "solution": "Uganda and Democratic Republic of Congo.\nTwo Oil Giants- France’s TotalEnergies and the China National Offshore Oil Corporation (CNOOC) signed a USD 10 million deal to develop Uganda’s energy resources and build a Regional oil pipeline.The project aims to exploit the crude oil reserves at Lake Albert, a 160-kilometre natural border between Uganda and the Democratic Republic of Congo.",
+                    "keyString": "a00003",
+                    "isBookMark": 0,
+                    "isShown": 0,
+                    "isCon": 0
+                }
+            ]
+        },
+        {
+            "date": "2nd Feb 2022",
+            "affairs": [
                 {
                     "Question": "",
                     "optionA": "",
