@@ -1,6 +1,69 @@
 {
     "current_affairs": [
         {
+            "date": "5th Feb 2022",
+            "affairs": [
+                {
+                    "Question": "",
+                    "optionA": "",
+                    "optionB": "",
+                    "optionC": "",
+                    "optionD": "",
+                    "Answar": "",
+                    "Title": "[India] Khijadiya wildlife sanctuary",
+                    "solution": "Two new Ramsar sites were announced on the occasion of World Wetlands Day. They are: Khijadiya wildlife sanctuary in Gujarat and Bakhira wildlife sanctuary in Uttar Pradesh. India has a network of 49 such sites covering 10,93,636 hectares, which is the highest in South Asia. The Union Environment Ministry had earlier notified the Sultanpur National Park and Bhindawas wildlife sanctuary in Jhajjar as Ramsar sites in Haryana.",
+                    "keyString": "a000000r2",
+                    "isBookMark": 0,
+                    "isShown": 0,
+                    "isCon": 0
+                },
+                {
+                    "Question": "",
+                    "optionA": "",
+                    "optionB": "",
+                    "optionC": "",
+                    "optionD": "",
+                    "Answar": "",
+                    "Title": "Super Hornet fighter aircraft",
+                    "solution": "The marine version of the French-made Rafale fighter jet has been successfully flight-tested at a shore-based facility in Goa. The Rafale-M competes against the US-made Super Hornet, as both of which are being evaluated for a purchase by the Indian Navy for deployment on INS Vikrant. It is a 44,000-tonne indigenously developed aircraft carrier, that is undergoing trials for commissioning in August.",
+                    "keyString": "a000000r3",
+                    "isBookMark": 0,
+                    "isShown": 0,
+                    "isCon": 0
+                },
+                {
+                    "Question": "",
+                    "optionA": "",
+                    "optionB": "",
+                    "optionC": "",
+                    "optionD": "",
+                    "Answar": "",
+                    "Title": "[India] One Nation One Ration Card",
+                    "solution": "Chhattisgarh has recently implemented ‘One Nation One Ration Card’ (ONORC) plan, under which the people of the state can lift their food-grains quota from any ration shops across the country. With the integration of Chhattisgarh, the ONORC plan is now operational in 35 States/UTs covering almost 96.8 per cent of about 77 crore NFSA beneficiaries in the country. This was announced by the Department of Food & Public Distribution.",
+                    "keyString": "a000000r4",
+                    "isBookMark": 0,
+                    "isShown": 0,
+                    "isCon": 0
+                }
+                ,
+                {
+                    "Question": "",
+                    "optionA": "",
+                    "optionB": "",
+                    "optionC": "",
+                    "optionD": "",
+                    "Answar": "",
+                    "Title": "Skeletal remains of a man buried near a headless horse",
+                    "solution": "Researchers have recently found skeletal remains of a man buried near a headless horse. The remains have been found in Knittlingen in southern Germany.Researchers estimate that the man and the horse must have been buried 1400 years ago when the area was ruled by Merovingian dynasty.",
+                    "keyString": "a000000r5",
+                    "isBookMark": 0,
+                    "isShown": 0,
+                    "isCon": 0
+                }
+                
+            ]
+        },
+        {
             "date": "4th Feb 2022",
             "affairs": [
                 {
