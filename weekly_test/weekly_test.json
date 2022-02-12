@@ -4,7 +4,8 @@
             "name": "12/02/2022 GQ Test",
             "detail": "",
             "key": "1",
-            "data": [
+            "data":{"questions":
+             [
                 {
                     "Question": "ATM means",
                     "optionA": "  All Time Money ",
@@ -201,6 +202,7 @@
                     "isCon": 0
                 }
             ]
+        }
         }
     ]
 }
