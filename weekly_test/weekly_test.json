@@ -4,209 +4,243 @@
             "name": "12/02/2022 GQ Test",
             "detail": "",
             "key": "1",
-            "data":{"questions":
-             [
-                
-                {
-                    "Question": "Full form of BCG is :",
-                    "optionA": "  Bacillus Cholera Germ ",
-                    "optionB": "  Bacillus Calmette Guerin ",
-                    "optionC": "  Bacillus Curative Gene ",
-                    "optionD": "  Bacillus Cholera Guerin ",
-                    "Answar": " Option B",
-                    "solution": " Solution:\t\tBCG, or Bacillus Calmette-Guerin, is a vaccine for tuberculosis (TB) disease. ",
-                    "keyString": "612629s2m23h16d15m7y2021",
-                    "isBookMark": 0,
-                    "isShown": 0,
-                    "isCon": 0
-                },
-                {
-                    "Question": "The abbreviation LHC stands for which machine?",
-                    "optionA": "  Long Heavy Collider ",
-                    "optionB": "  Large Hadron Collider ",
-                    "optionC": "  Light Heat Collider ",
-                    "optionD": "  Large High Collider ",
-                    "Answar": " Option B",
-                    "solution": " Solution:\t\tThe abbreviation LHC stands for Large Hadron Collider. ",
-                    "keyString": "707190s2m23h16d15m7y2021",
-                    "isBookMark": 0,
-                    "isShown": 0,
-                    "isCon": 0
-                },
-                {
-                    "Question": "The term GIGO is related to",
-                    "optionA": "  Accuracy ",
-                    "optionB": "  Automatic ",
-                    "optionC": "  Flexibility ",
-                    "optionD": "  Versatility ",
-                    "Answar": " Option A",
-                    "solution": " Solution:\t\tThe term GIGO is related to accuracy. ",
-                    "keyString": "707199s2m23h16d15m7y2021",
-                    "isBookMark": 0,
-                    "isShown": 0,
-                    "isCon": 0
-                },
-                {
-                    "Question": "In the 64th Miss Universe Competition, the winner Pia Alonzo Wurtzbach belongs to -",
-                    "optionA": "  Philippines ",
-                    "optionB": "  Columbia ",
-                    "optionC": "  USA ",
-                    "optionD": "  France ",
-                    "Answar": " Option A",
-                    "solution": " Solution:\t\tPia Alonzo Wurtzbach, formerly known professionally as Pia Romero, is a Filipino - German model, actress and beauty queen who was crowned Miss Universe 2015.",
-                    "keyString": "360168s6m3h16d15m7y2021",
-                    "isBookMark": 0,
-                    "isShown": 0,
-                    "isCon": 0
-                },
-                {
-                    "Question": "What is the name of the Tropical Storm which made landfall on three southern African countries? (Feb, 2022)",
-                    "optionA": "  Rina ",
-                    "optionB": "  Ana ",
-                    "optionC": "  Boss ",
-                    "optionD": "  Sue ",
-                    "Answar": " Option B",
-                    "solution": " ",
-                    "keyString": "360168s6m3h16d15m7y202134tger",
-                    "isBookMark": 0,
-                    "isShown": 0,
-                    "isCon": 0
-                },
-                {
-                    "Question": "Masada Fortress, is located in which country?",
-                    "optionA": "  India ",
-                    "optionB": "  Sri Lanka ",
-                    "optionC": "  Israel ",
-                    "optionD": "  UAE ",
-                    "Answar": " Option C",
-                    "solution": " ",
-                    "keyString": "360168s6m3h16d15m7y202134tg87yer",
-                    "isBookMark": 0,
-                    "isShown": 0,
-                    "isCon": 0
-                }
-                ,
-                {
-                    "Question": "Who is the first male Tennis star to win 21 Grand Slam titles?",
-                    "optionA": "  Roger Federer ",
-                    "optionB": "  Rafael Nadal ",
-                    "optionC": "  Novak Djokovic ",
-                    "optionD": "  Andre Agassi ",
-                    "Answar": " Option B",
-                    "solution": " ",
-                    "keyString": "36s6m3h16d15m7y202134tg87yer",
-                    "isBookMark": 0,
-                    "isShown": 0,
-                    "isCon": 0
-                },
-                {
-                    "Question": "‘Bloody Sunday’ is a commemorative event marked by which country?",
-                    "optionA": " USA ",
-                    "optionB": " Ireland ",
-                    "optionC": " Germany ",
-                    "optionD": " Italy ",
-                    "Answar": " Option B",
-                    "solution": " ",
-                    "keyString": "36s6mo3h16d15m7y202134tg87yer",
-                    "isBookMark": 0,
-                    "isShown": 0,
-                    "isCon": 0
-                },
-                {
-                    "Question": "‘Oceans Melting Greenland airborne mission’ is associated with which country?",
-                    "optionA": " Russia ",
-                    "optionB": " Israel ",
-                    "optionC": " USA ",
-                    "optionD": " China ",
-                    "Answar": " Option C",
-                    "solution": " ",
-                    "keyString": "36s6mok3h16d15m7y202134tg87yer",
-                    "isBookMark": 0,
-                    "isShown": 0,
-                    "isCon": 0
-                }
-                ,
-                {
-                    "Question": "“Vayam Rakshamah” or “We Protect” is the theme of which armed force of India?",
-                    "optionA": " Indian Coast Guard ",
-                    "optionB": " Indo-Tibetan Border Police ",
-                    "optionC": " Assam Sentinels ",
-                    "optionD": " Border Security Force ",
-                    "Answar": " Option A",
-                    "solution": " ",
-                    "keyString": "36s6mok3h16d15m7y202134tgjk87yer",
-                    "isBookMark": 0,
-                    "isShown": 0,
-                    "isCon": 0
-                },
-                {
-                    "Question": "As per the Economic Survey 2021-22, what is the estimated GDP Growth of India in 2022-23?",
-                    "optionA": "  9.2-9.7 % ",
-                    "optionB": "  8.2-8.7 % ",
-                    "optionC": " 8.0-8.5 % ",
-                    "optionD": " 10.0 – 10.5 % ",
-                    "Answar": " Option C",
-                    "solution": " ",
-                    "keyString": "h16d15m7y202134tgjk87yer",
-                    "isBookMark": 0,
-                    "isShown": 0,
-                    "isCon": 0
-                },
-                {
-                    "Question": "Which country known as a tax haven, has introduced ‘Federal Corporate Tax’ for the first time?",
-                    "optionA": "  Marshall Islands ",
-                    "optionB": "  Mauritius ",
-                    "optionC": " UAE ",
-                    "optionD": " Switzerland ",
-                    "Answar": " Option C",
-                    "solution": " ",
-                    "keyString": "44h16d15m7y202134tgjk87yer",
-                    "isBookMark": 0,
-                    "isShown": 0,
-                    "isCon": 0
-                },
-                {
-                    "Question": "The Lunar New Year 2022 marks the start of Year of which animal?",
-                    "optionA": "  Year of Ox ",
-                    "optionB": "  Year of Tiger ",
-                    "optionC": " Year of Pig ",
-                    "optionD": " Year of Lion ",
-                    "Answar": " Option B",
-                    "solution": " ",
-                    "keyString": "4t4h16d15m7y202134tgjk87yer",
-                    "isBookMark": 0,
-                    "isShown": 0,
-                    "isCon": 0
-                },
-                {
-                    "Question": "‘Cyornis and Zosterops’ are the recently discovered genus of which species, discovered from Borneo?",
-                    "optionA": "  Moth ",
-                    "optionB": "  Bird ",
-                    "optionC": " Turtle ",
-                    "optionD": " Spider ",
-                    "Answar": " Option B",
-                    "solution": " ",
-                    "keyString": "4t4h16d15m7y202768134tgjk87yer",
-                    "isBookMark": 0,
-                    "isShown": 0,
-                    "isCon": 0
-                }
-                ,
-                {
-                    "Question": "When is the ‘World Neglected Tropical Diseases Day’ observed?",
-                    "optionA": "  January 25 ",
-                    "optionB": "  January 30 ",
-                    "optionC": " February 1 ",
-                    "optionD": " February 3 ",
-                    "Answar": " Option B",
-                    "solution": " ",
-                    "keyString": "4t4h16d15m7y20234t768134tgjk87yer",
-                    "isBookMark": 0,
-                    "isShown": 0,
-                    "isCon": 0
-                }
-            ]
-        }
+            "data": {
+                "questions": [
+                    {
+                        "Question": "Full form of BCG is :",
+                        "optionA": "  Bacillus Cholera Germ ",
+                        "optionB": "  Bacillus Calmette Guerin ",
+                        "optionC": "  Bacillus Curative Gene ",
+                        "optionD": "  Bacillus Cholera Guerin ",
+                        "Answar": " Option B",
+                        "solution": " Solution:\t\tBCG, or Bacillus Calmette-Guerin, is a vaccine for tuberculosis (TB) disease. ",
+                        "keyString": "612629s2m23h16d15m7y2021",
+                        "isBookMark": 0,
+                        "isShown": 0,
+                        "isCon": 0,
+                        "url":"Full-orm-of-BCG-is"
+                    },
+                    {
+                        "Question": "The abbreviation LHC stands for which machine?",
+                        "optionA": "  Long Heavy Collider ",
+                        "optionB": "  Large Hadron Collider ",
+                        "optionC": "  Light Heat Collider ",
+                        "optionD": "  Large High Collider ",
+                        "Answar": " Option B",
+                        "solution": " Solution:\t\tThe abbreviation LHC stands for Large Hadron Collider. ",
+                        "keyString": "707190s2m23h16d15m7y2021",
+                        "isBookMark": 0,
+                        "isShown": 0,
+                        "isCon": 0,
+                        "url":"The-abbreviation-LHC-stands-for-which-machine?"
+                    },
+                    {
+                        "Question": "The term GIGO is related to",
+                        "optionA": "  Accuracy ",
+                        "optionB": "  Automatic ",
+                        "optionC": "  Flexibility ",
+                        "optionD": "  Versatility ",
+                        "Answar": " Option A",
+                        "solution": " Solution:\t\tThe term GIGO is related to accuracy. ",
+                        "keyString": "707199s2m23h16d15m7y2021",
+                        "isBookMark": 0,
+                        "isShown": 0,
+                        "isCon": 0,
+                        "url":"The-term-GIGO-is-related-to"
+                    },
+                    {
+                        "Question": "In the 64th Miss Universe Competition, the winner Pia Alonzo Wurtzbach belongs to -",
+                        "optionA": "  Philippines ",
+                        "optionB": "  Columbia ",
+                        "optionC": "  USA ",
+                        "optionD": "  France ",
+                        "Answar": " Option A",
+                        "solution": " Solution:\t\tPia Alonzo Wurtzbach, formerly known professionally as Pia Romero, is a Filipino - German model, actress and beauty queen who was crowned Miss Universe 2015.",
+                        "keyString": "360168s6m3h16d15m7y2021",
+                        "isBookMark": 0,
+                        "isShown": 0,
+                        "isCon": 0,
+                        "url":"In-the-64th-Miss-Universe-Competition-the-winner-Pia-Alonzo-Wurtzach-belongs-to"
+                    },
+                    {
+                        "Question": "What is the name of the Tropical Storm which made landfall on three southern African countries? (Feb, 2022)",
+                        "optionA": "  Rina ",
+                        "optionB": "  Ana ",
+                        "optionC": "  Boss ",
+                        "optionD": "  Sue ",
+                        "Answar": " Option B",
+                        "solution": " ",
+                        "keyString": "360168s6m3h16d15m7y202134tger",
+                        "isBookMark": 0,
+                        "isShown": 0,
+                        "isCon": 0,
+                        "url":"What-is-the-name-of-the-Tropical-Storm-hich-made-landfall-on "
+                    },
+                    {
+                        "Question": "Masada Fortress, is located in which country?",
+                        "optionA": "  India ",
+                        "optionB": "  Sri Lanka ",
+                        "optionC": "  Israel ",
+                        "optionD": "  UAE ",
+                        "Answar": " Option C",
+                        "solution": " ",
+                        "keyString": "360168s6m3h16d15m7y202134tg87yer",
+                        "isBookMark": 0,
+                        "isShown": 0,
+                        "isCon": 0,
+                        "url":"Masada-Fortress-is-located-in-which-country"
+                    },
+                    {
+                        "Question": "Who is the first male Tennis star to win 21 Grand Slam titles?",
+                        "optionA": "  Roger Federer ",
+                        "optionB": "  Rafael Nadal ",
+                        "optionC": "  Novak Djokovic ",
+                        "optionD": "  Andre Agassi ",
+                        "Answar": " Option B",
+                        "solution": " ",
+                        "keyString": "36s6m3h16d15m7y202134tg87yer",
+                        "isBookMark": 0,
+                        "isShown": 0,
+                        "isCon": 0,
+                        "url":"Masada-Fortress-is-located-in-which-country"
+                    },
+                    {
+                        "Question": "‘Bloody Sunday’ is a commemorative event marked by which country?",
+                        "optionA": " USA ",
+                        "optionB": " Ireland ",
+                        "optionC": " Germany ",
+                        "optionD": " Italy ",
+                        "Answar": " Option B",
+                        "solution": " ",
+                        "keyString": "36s6mo3h16d15m7y202134tg87yer",
+                        "isBookMark": 0,
+                        "isShown": 0,
+                        "isCon": 0,
+                        "url":"Bloody-Sunday-is-a-commemorative-event-marked-by-which-country?"
+                    },
+                    {
+                        "Question": "‘Oceans Melting Greenland airborne mission’ is associated with which country?",
+                        "optionA": " Russia ",
+                        "optionB": " Israel ",
+                        "optionC": " USA ",
+                        "optionD": " China ",
+                        "Answar": " Option C",
+                        "solution": " ",
+                        "keyString": "36s6mok3h16d15m7y202134tg87yer",
+                        "isBookMark": 0,
+                        "isShown": 0,
+                        "isCon": 0,
+                        "url":"Oceans-Melting-Greenland-airborne-mission-is-associated-with-which-country"
+                        
+                    }
+                ]
+            }
+        },
+        {
+            "name": "06/03/2022 GQTest",
+            "detail": "",
+            "key": "2",
+            "data": {
+                "questions": [
+                    {
+                        "Question": "What does ‘S’ stand for in ‘SWIFT’ financial messaging service?",
+                        "optionA": "Secure",
+                        "optionB": "Society",
+                        "optionC": "Simple",
+                        "optionD": "Service",
+                        "Answar": " Option B",
+                        "Title": "",
+                        "solution": "The Society for Worldwide Interbank Financial Telecommunication, or SWIFT, is the world's leading provider of secure financial messaging services. It facilitates trillions of dollars of cross-border payments between 11,000 financial institutions in more than 200 countries. Each member has its own SWIFT code.",
+                        "keyString": "01",
+                        "isBookMark": 0,
+                        "isShown": 0,
+                        "isCon": 0,
+                        "url":"What-does-s-stand-for-in-SWIFT-financial-messaging-service"
+                    },
+                    {
+                        "Question": "Which is the headquarters of the International Atomic Energy Agency (IAEA)?",
+                        "optionA": "Geneva",
+                        "optionB": "Vienna",
+                        "optionC": "New York",
+                        "optionD": "Moscow",
+                        "Answar": " Option B",
+                        "Title": "",
+                        "solution": "The International Atomic Energy Agency (IAEA) is an international organization that seeks to promote the peaceful use of nuclear energy, and to inhibit its use for any military purpose, including nuclear weapons. IAEA was established as an autonomous organization on 29 July 1957  in Vienna. Vienna, Austria’s capital, lies in the country’s east on the Danube River.",
+                        "keyString": "02",
+                        "isBookMark": 0,
+                        "isShown": 0,
+                        "isCon": 0,
+                        "url":"Which-is-the-headquarters-of-the-International-Atomic-Energy-Agency"
+                    },
+                    {
+                        "Question": "Which Tennis player won the Mexican Open Title 2022?",
+                        "optionA": "Novak Djokovic",
+                        "optionB": "Rafael Nadal",
+                        "optionC": "Roger Federer",
+                        "optionD": "Daniel Medvedev",
+                        "Answar": " Option B",
+                        "Title": "",
+                        "solution": "In tennis, Rafael Nadal (Spain) beat British number one Cameron Norrie 6-4 6-4 to win the singles title of Mexican Open 2022 (also known as Acapulco title). This is the 91st ATP title of his career and the third title of the season. This is the fourth time that Rafael Nadal has won the Mexican Open title, after winning the previous ones in 2005, 2013 and 2020.",
+                        "keyString": "03",
+                        "isBookMark": 0,
+                        "isShown": 0,
+                        "isCon": 0,
+                        
+                        "url":"Which-Tennis-player-won-the-Mexican-Open-Title-2022"
+                    }
+                    ,
+                    {
+                        "Question": "Which Tennis player won the Mexican Open Title 2022?",
+                        "optionA": "Novak Djokovic",
+                        "optionB": "Rafael Nadal",
+                        "optionC": "Roger Federer",
+                        "optionD": "Daniel Medvedev",
+                        "Answar": " Option B",
+                        "Title": "",
+                        "solution": "In tennis, Rafael Nadal (Spain) beat British number one Cameron Norrie 6-4 6-4 to win the singles title of Mexican Open 2022 (also known as Acapulco title). This is the 91st ATP title of his career and the third title of the season. This is the fourth time that Rafael Nadal has won the Mexican Open title, after winning the previous ones in 2005, 2013 and 2020.",
+                        "keyString": "03",
+                        "isBookMark": 0,
+                        "isShown": 0,
+                        "isCon": 0,
+                        "url":"Which-Tennis-player-won-the-Mexican-Open-Title-2022"
+                        
+                    },
+
+                    {
+                        "Question": "What is the name of the initiative launched by India to bring back Indians stranded from Ukraine?",
+                        "optionA": "Operation Ganga",
+                        "optionB": "Operation Kiev",
+                        "optionC": "Operation Moscow",
+                        "optionD": "Operation Bharat",
+                        "Answar": " Option A",
+                        "Title": "",
+                        "solution": "The government of India had started 'Operation Ganga' on 26 February to evacuate stranded Indians from Ukraine. The first flight carrying Indians landed in Mumbai on February 26 which was received by Piyush Goyal, Minister for Commerce and Industry.",
+                        "keyString": "04",
+                        "isBookMark": 0,
+                        "isShown": 0,
+                        "isCon": 0,
+                        "url":"What-is-the-name-of-the-initiative-launched-by-India-to-bring-back-Indians-stranded-from-Ukraine"
+                    },
+
+                    {
+                        "Question": "The World’s first ship tunnel is being constructed in which country?",
+                        "optionA": "Poland",
+                        "optionB": "Norway",
+                        "optionC": "France",
+                        "optionD": "Zimbabwe",
+                        "Answar": " Option B",
+                        "Title": "",
+                        "solution": "Norway has recently got the approval to construct the world's first ship tunnel, to help vessels to navigate the Stadhavet Sea. It is to be constructed as a mile-long 118-feet-wide . This project will cost around USD 330 million and will take between three to four years.",
+                        "keyString": "05",
+                        "isBookMark": 0,
+                        "isShown": 0,
+                        "isCon": 0,
+                        "url":"The-Worlds-first-ship-tunnel-is-being-constructed-in-which-country"
+                    }
+
+
+                ]
+            }
         }
     ]
 }
