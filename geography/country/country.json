@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Afghanistan",
+        "population": "40,399,754 (approximately) in 2022.",
+        "land_area": "652,860 square KM",
+        "capital": "kabul",
+        "position_on_earth": "34.5333° N, 69.1333° E",
+        "agriculture": "Wheat,cereal",
+        "nature": "mostly low plateau with deserts, rangelands and a fertile plain in the southeast",
+        "resources": "natural gas, petroleum, coal, copper, chromite, talc, barites, sulfur, lead, zinc, iron ore, salt, precious and semiprecious stone",
+        "important_river": "Helmand River",
+        "language": "Pashto,Persian ",
+        "travel_destinations": "Kabul,Bamyan,Herat",
+        "Currency": "Afghan afghani",
+        "food": "Kabuli pulao, Gosh-e fil, Mastawa, Borani banjan, Chopan kabob",
+        "animals": " snow leopard, Marco Polo sheep, Siberian musk deer, markhor, urial",
+        "dialing_code":"93 +",
+        "timezones": "GMT+4:30",
+        "flag": "",
+        "key":"000"
+    },
+    {
+        "name": "Albania",
+        "population": "2,872,518 (approximately) in 2022.",
+        "land_area": "28,748 km²",
+        "capital": "Tirana",
+        "position_on_earth": "41° 00' N , 20° 00' E ",
+        "agriculture": " tobacco, figs, olives, wheat, maize, potatoes, vegetables, fruits, sugar beets, grapes, meat, honey, dairy products, and medicinal and aromatic plants.",
+        "nature": "mountainous geography,editerranean climate, with mild and humid winters followed by hot and dry summers,Illyrian deciduous forests, Dinaric mixed forests, Balkan mixed forests and Pindus mixed forests",
+        "resources": "petroleum and natural gas",
+        "important_river": "Drin River, Seman, Shkumbin",
+        "language": "Pashto,Persian ",
+        "travel_destinations": "Tirana, Sarandë, Berat",
+        "Currency": "Albanian lek",
+        "food": "Ferges, Tarator, Byrek, Ashure – ",
+        "animals": " foxes, golden eagles, peregrine falcons, plovers, egrets, fire salamanders, beech martens, sea turtles, and dolphins",
+        "dialing_code":"+355",
+        "timezones": "GMT+1",
+        "flag": "",
+        "key":"001"
+    }
+]
